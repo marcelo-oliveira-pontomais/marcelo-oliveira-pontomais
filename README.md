@@ -7,13 +7,20 @@
 
 <p align="center">Atualmente utilizo as tecnologias</p>
 <p align="center">
+  <img src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo.png" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" />
+  <img src="https://dmlaziuk.github.io/images/rspec.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="35" />
+  
+</p>
+<p align="center">Além disso, algumas tecnologias que uso ou estudo</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="40" />
+  <img src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png?w=415&h=415" width="40" />
 </p>
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-oliveira-pontomais&show_icons=true&theme=radical&hide=stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-oliveira-pontomais&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **marcelo-oliveira-pontomais/marcelo-oliveira-pontomais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
