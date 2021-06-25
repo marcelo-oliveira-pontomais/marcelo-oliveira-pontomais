@@ -13,7 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="35" />
 </p>
 <br>
-<p align="center">Além disso, algumas tecnologias estudo ou tenho interesse em aprender</p>
+<p align="center">Além disso, algumas tecnologias que estudo ou tenho interesse em aprender</p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="40" />
   <img src="https://chicoary.files.wordpress.com/2015/12/golang-sh-600x600.png?w=415&h=415" width="40" />
